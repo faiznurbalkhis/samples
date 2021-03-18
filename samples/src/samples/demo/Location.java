@@ -3,6 +3,8 @@ package samples.demo;
 public class Location {
 	
 	private int height;
+	private String name;
+	private int ID;
 	
 	public void print() {
 		System.out.println("height");
